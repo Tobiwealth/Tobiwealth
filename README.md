@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobiwealth
-- 👀 I’m interested in ... front end web development
-- 🌱 I’m currently learning ... redux
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in front end web development
+- 🌱 I’m currently learning React Native 
+- 💞️ I’m looking to collaborate on any front end project
 - 📫 How to reach me ...
 
 <!---
