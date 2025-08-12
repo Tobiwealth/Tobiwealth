@@ -13,10 +13,3 @@ Building scalable, user-friendly web apps for fintech, edtech, and beyond.
 
 📫 Reach me: [LinkedIn](www.linkedin.com/in/oluwatobi-oloro-gmnse-429624170) | 📧 **olorotobi@gmail.com**
 
----
-
-## 📊 GitHub Stats
-![Tee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobiwealth&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobiwealth&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tobiwealth&theme=radical)
-
