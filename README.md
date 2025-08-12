@@ -11,5 +11,5 @@ Building scalable, user-friendly web apps for fintech, edtech, and beyond.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js) 
 ![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)  
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/oluwatobi-oloro-gmnse-429624170) | [Portfolio](https://yourwebsite.com)
+📫 Reach me: [LinkedIn](www.linkedin.com/in/oluwatobi-oloro-gmnse-429624170) | 📧 **olorotobi@gmail.com**
 
